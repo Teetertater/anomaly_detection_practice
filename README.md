@@ -7,4 +7,4 @@ From Yahoo's description of the dataset:
 
 **yahoo.ipynb** contains some experiments with a simple threshold model, as well as model saving/loading/benchmarking using the MLflow model registry.
 
-**yahoo_bonus_eda.ipynb** contains all the above, plus a bit of additional exploratory analysis using time series data transformations
+**yahoo_de-season.ipynb** contains all the above, plus an attempt at automatically finding and removing seasonality using acf + median sampling

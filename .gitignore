@@ -3,3 +3,4 @@ mlruns/
 dataset.tgz
 .ipynb_checkpoints/
 yahoo_data/
+.vscode/settings.json
