@@ -7,7 +7,7 @@ From Yahoo's description of the dataset:
 
 
 
-**yahoo_FFT.ipynb**  
+**[yahoo_FFT.ipynb](https://nbviewer.jupyter.org/github/Teetertater/anomaly_detection_practice/blob/master/yahoo_FFT.ipynb#File-imports-and-EDA)**  
 - Experiments with a simple threshold model (Tukey's Fences)  
 - Model saving/loading/benchmarking using the MLflow model registry.  
 - Pre-processing and automatic de-seasoning by removal of dominant frequencies (FFT)   
